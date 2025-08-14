@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Política de Privacidad</title>
+</head>
+<body>
+  <h1>Política de Privacidad</h1>
+  <p><strong>Última actualización:</strong> 02.08.2025</p>
+  <p>Su privacidad es importante para nosotros. Esta Política de Privacidad explica cómo recopilamos, usamos y protegemos su información cuando usa nuestra aplicación.</p>
+  <h2>1. Cómo Inician Sesión los Usuarios</h2>
+  <p>Los usuarios pueden acceder a la aplicación de una de las siguientes maneras: Iniciando sesión con Google, Twitter(X), Azure(Microsoft), o Apple (para iOS y macOS) usando OAuth. Siempre tendrán la opción de continuar de forma anónima sin crear una cuenta.</p>
+  <h2>2. Qué Datos Recopilamos</h2>
+  <p>Recopilamos solo los datos mínimos necesarios para proporcionar una experiencia personalizada y funcional:</p>
+  <ul>
+    <li>De los proveedores OAuth (Google/Twitter/Azure): Nombre, Dirección de correo electrónico, Foto de perfil</li>
+    <li>Dentro de la aplicación: Preferencias de idioma, país y tema (establecidas por el usuario), progreso de clases y datos de finalización de cuestionarios</li>
+  </ul>
+  <p>No recopilamos ni almacenamos datos personales sensibles como contraseñas, historial de ubicaciones o identificadores de dispositivos.</p>
+  <h2>3. Dónde se Almacenan los Datos</h2>
+  <p>Todos los datos de usuario se almacenan de forma segura usando Supabase, una plataforma backend-as-a-service confiable. No operamos nuestros propios servidores.</p>
+  <h2>4. Cómo Usamos los Datos</h2>
+  <p>Sus datos se usan únicamente para:</p>
+  <ul>
+    <li>Personalizar su experiencia en la aplicación (idioma, tema, etc.)</li>
+    <li>Rastrear su progreso en las clases y resultados de cuestionarios</li>
+    <li>Identificar su cuenta al iniciar sesión a través de Google o Facebook</li>
+  </ul>
+  <p>No usamos sus datos para publicidad o análisis, y no los compartimos con terceros.</p>
+  <h2>5. Quién Puede Acceder a los Datos</h2>
+  <p>Solo el propietario de la aplicación tiene acceso a los datos de usuario almacenados en la base de datos. Nadie más, incluyendo socios o proveedores de servicios, tiene acceso a su información personal o de uso.</p>
+  <h2>6. Eliminación de Datos</h2>
+  <p>Si desea que sus datos sean eliminados, envíe una solicitud a:</p>
+  <p><a href="mailto:fluentechtr@gmail.com">fluentechtr@gmail.com</a></p>
+  <p>Sus datos serán eliminados permanentemente dentro de 14 días.</p>
+  <h2>7. Contáctenos</h2>
+  <p>Si tiene alguna pregunta o inquietud sobre su privacidad, no dude en contactarnos en:</p>
+  <p><a href="mailto:fluentechtr@gmail.com">fluentechtr@gmail.com</a></p>
+</body>
+</html>
