@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8">
+  <title>Tietosuojakäytäntö</title>
+</head>
+<body>
+  <h1>Tietosuojakäytäntö</h1>
+  <p><strong>Viimeksi päivitetty:</strong> 25.08.2025</p>
+  <p><strong>Kehittäjän nimi:</strong> Ömer Coşkun | FluenTech</p>
+  <p>Yksityisyytesi on meille tärkeää. Tämä tietosuojakäytäntö selittää, miten keräämme, käytämme ja suojaamme tietojasi, kun käytät sovellustamme.</p>
+
+  <h2>1. Kuinka käyttäjät kirjautuvat sisään</h2>
+  <p>Käyttäjät voivat käyttää sovellusta yhdellä seuraavista tavoista: kirjautumalla Google-, Twitter (X)-, Azure (Microsoft)- tai Apple-tilillä (iOS ja macOS) OAuthin avulla. Käyttäjillä on aina mahdollisuus jatkaa anonyymisti ilman tilin luomista.</p>
+
+  <h2>2. Mitä tietoja keräämme</h2>
+  <p>Keräämme vain välttämättömät tiedot, jotka tarvitaan henkilökohtaisen ja toimivan kokemuksen tarjoamiseen:</p>
+  <ul>
+    <li>OAuth-palveluntarjoajilta (Google/Twitter/Azure): Nimi, Sähköpostiosoite, Profiilikuva</li>
+    <li>Sovelluksen kautta: Kieli-, maa- ja teema-asetukset (käyttäjän määrittämät), Kurssien edistyminen ja testien suorittamistiedot</li>
+  </ul>
+  <p>Emme kerää tai tallenna arkaluontoisia henkilötietoja, kuten salasanoja, sijaintihistoriaa tai laitteen tunnistetietoja.</p>
+
+  <h2>3. Missä tiedot säilytetään</h2>
+  <p>Kaikki käyttäjätiedot säilytetään turvallisesti Supabase-alustalla, luotettavalla backend-as-a-service -palvelulla. Emme ylläpidä omia palvelimia.</p>
+
+  <h2>4. Miten käytämme tietoja</h2>
+  <p>Tietojasi käytetään vain seuraaviin tarkoituksiin:</p>
+  <ul>
+    <li>Personoimaan sovelluskokemustasi (kieli, teema jne.)</li>
+    <li>Seuraamaan kurssien edistymistä ja testituloksia</li>
+    <li>Tunnistamaan tilisi kirjautuessasi Google- tai Facebook-tilillä</li>
+  </ul>
+  <p>Emme käytä tietojasi mainontaan tai analytiikkaan, emmekä jaa niitä kolmansien osapuolten kanssa.</p>
+
+  <h2>5. Kuka voi käyttää tietoja</h2>
+  <p>Vain sovelluksen omistajalla on pääsy käyttäjätietoihin, jotka on tallennettu tietokantaan. Kukaan muu, mukaan lukien kumppanit tai palveluntarjoajat, ei pääse käsiksi henkilökohtaisiin tietoihisi tai käyttöinformaatioosi.</p>
+
+  <h2>6. Tietojen poistaminen</h2>
+  <p>Jos haluat, että tietosi poistetaan, lähetä pyyntö osoitteeseen:</p>
+  <p><a href="mailto:fluentechtr@gmail.com">fluentechtr@gmail.com</a></p>
+  <p>Tietosi poistetaan pysyvästi 14 päivän kuluessa.</p>
+
+  <h2>7. Ota yhteyttä</h2>
+  <p>Jos sinulla on kysyttävää tai huolenaiheita yksityisyydestäsi, ota meihin yhteyttä:</p>
+  <p><a href="mailto:fluentechtr@gmail.com">fluentechtr@gmail.com</a></p>
+</body>
+</html>
