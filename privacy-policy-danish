@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+  <meta charset="UTF-8">
+  <title>Privatlivspolitik</title>
+</head>
+<body>
+  <h1>Privatlivspolitik</h1>
+  <p><strong>Sidst opdateret:</strong> 25.08.2025</p>
+  <p><strong>Udviklerens navn:</strong> Ömer Coşkun | FluenTech</p>
+  <p>Dit privatliv er vigtigt for os. Denne privatlivspolitik forklarer, hvordan vi indsamler, bruger og beskytter dine oplysninger, når du bruger vores app.</p>
+
+  <h2>1. Hvordan brugere logger ind</h2>
+  <p>Brugere kan få adgang til appen på en af følgende måder: Ved at logge ind med Google, Twitter (X), Azure (Microsoft) eller Apple (for iOS og macOS) via OAuth. De vil altid have mulighed for at fortsætte anonymt uden at oprette en konto.</p>
+
+  <h2>2. Hvilke data vi indsamler</h2>
+  <p>Vi indsamler kun de minimale oplysninger, der er nødvendige for at give en personlig og funktionel oplevelse:</p>
+  <ul>
+    <li>Fra OAuth-udbydere (Google/Twitter/Azure): Navn, E-mailadresse, Profilbillede</li>
+    <li>Fra appen: Sprog, land og temapræferencer (indstillet af brugeren), Klassefremskridt og quiz-resultater</li>
+  </ul>
+  <p>Vi indsamler eller gemmer ikke følsomme personlige oplysninger såsom adgangskoder, lokaliseringshistorik eller enhedsidentifikatorer.</p>
+
+  <h2>3. Hvor data gemmes</h2>
+  <p>Alle brugerdata gemmes sikkert ved hjælp af Supabase, en pålidelig backend-as-a-service-platform. Vi driver ikke vores egne servere.</p>
+
+  <h2>4. Hvordan vi bruger data</h2>
+  <p>Dine data bruges kun til at:</p>
+  <ul>
+    <li>Personalisere din app-oplevelse (sprog, tema osv.)</li>
+    <li>Følge dit klassefremskridt og quiz-resultater</li>
+    <li>Identificere din konto ved login via Google eller Facebook</li>
+  </ul>
+  <p>Vi bruger ikke dine data til reklame eller analyser, og vi deler dem ikke med tredjeparter.</p>
+
+  <h2>5. Hvem kan få adgang til data</h2>
+  <p>Kun app-ejeren har adgang til brugerdata, der er gemt i databasen. Ingen andre, herunder partnere eller tjenesteudbydere, har adgang til dine personlige eller brugsmæssige oplysninger.</p>
+
+  <h2>6. Sletning af data</h2>
+  <p>Hvis du ønsker, at dine data slettes, send en anmodning til:</p>
+  <p><a href="mailto:fluentechtr@gmail.com">fluentechtr@gmail.com</a></p>
+  <p>Dine data vil blive permanent slettet inden for 14 dage.</p>
+
+  <h2>7. Kontakt os</h2>
+  <p>Hvis du har spørgsmål eller bekymringer om dit privatliv, er du velkommen til at kontakte os på:</p>
+  <p><a href="mailto:fluentechtr@gmail.com">fluentechtr@gmail.com</a></p>
+</body>
+</html>
