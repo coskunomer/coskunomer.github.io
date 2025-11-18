@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8">
+  <title>Política de Privacitat</title>
+</head>
+<body>
+  <h1>Política de Privacitat</h1>
+  <p><strong>Última actualització:</strong> 25.08.2025</p>
+  <p><strong>Nom del desenvolupador:</strong> Ömer Coşkun | FluenTech</p>
+  <p>La teva privacitat és important per a nosaltres. Aquesta Política de Privacitat explica com recopilem, utilitzem i protegim la teva informació quan fas servir la nostra aplicació.</p>
+
+  <h2>1. Com Inicien Sessió els Usuaris</h2>
+  <p>Els usuaris poden accedir a l'aplicació d'una de les següents maneres: Iniciant sessió amb Google, Twitter (X), Azure (Microsoft) o Apple (per iOS i macOS) mitjançant OAuth. Sempre tindran l'opció de continuar de manera anònima sense crear un compte.</p>
+
+  <h2>2. Quines Dades Recopilem</h2>
+  <p>Recopilem només les dades mínimes necessàries per oferir una experiència personalitzada i funcional:</p>
+  <ul>
+    <li>De proveïdors OAuth (Google/Twitter/Azure): Nom, Correu electrònic, Foto de perfil</li>
+    <li>Des de l'aplicació: Preferències d'idioma, país i tema (configurades per l'usuari), Progrés de les classes i dades de finalització de qüestionaris</li>
+  </ul>
+  <p>No recopilem ni emmagatzemem dades personals sensibles com contrasenyes, historial de localització o identificadors de dispositiu.</p>
+
+  <h2>3. On S'emmagatzemen les Dades</h2>
+  <p>Totes les dades d'usuari s'emmagatzemen de manera segura utilitzant Supabase, una plataforma de backend com a servei de confiança. No operem els nostres propis servidors.</p>
+
+  <h2>4. Com Utilitzem les Dades</h2>
+  <p>Les teves dades s'utilitzen només per a:</p>
+  <ul>
+    <li>Personalitzar l'experiència a l'aplicació (idioma, tema, etc.)</li>
+    <li>Fer el seguiment del progrés de les classes i dels resultats dels qüestionaris</li>
+    <li>Identificar el teu compte quan inicies sessió amb Google o Facebook</li>
+  </ul>
+  <p>No utilitzem les teves dades per a publicitat ni per a anàlisis, i no les compartim amb tercers.</p>
+
+  <h2>5. Qui Pot Accedir a les Dades</h2>
+  <p>Només el propietari de l'aplicació té accés a les dades d'usuari emmagatzemades a la base de dades. Ningú més, inclosos socis o proveïdors de serveis, té accés a la teva informació personal o d'ús.</p>
+
+  <h2>6. Eliminació de Dades</h2>
+  <p>Si vols que les teves dades siguin eliminades, envia una sol·licitud a:</p>
+  <p><a href="mailto:fluentechtr@gmail.com">fluentechtr@gmail.com</a></p>
+  <p>Les teves dades seran eliminades permanentment en un termini de 14 dies.</p>
+
+  <h2>7. Contacta'ns</h2>
+  <p>Si tens alguna pregunta o preocupació sobre la teva privacitat, no dubtis a contactar-nos a:</p>
+  <p><a href="mailto:fluentechtr@gmail.com">fluentechtr@gmail.com</a></p>
+</body>
+</html>
