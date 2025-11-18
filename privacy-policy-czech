@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <title>Zásady ochrany osobních údajů</title>
+</head>
+<body>
+  <h1>Zásady ochrany osobních údajů</h1>
+  <p><strong>Poslední aktualizace:</strong> 25.08.2025</p>
+  <p><strong>Jméno vývojáře:</strong> Ömer Coşkun | FluenTech</p>
+  <p>Vaše soukromí je pro nás důležité. Tyto zásady ochrany osobních údajů vysvětlují, jak shromažďujeme, používáme a chráníme vaše informace při používání naší aplikace.</p>
+
+  <h2>1. Jak se uživatelé přihlašují</h2>
+  <p>Uživatelé mohou přistupovat k aplikaci jedním z následujících způsobů: Přihlášením přes Google, Twitter (X), Azure (Microsoft) nebo Apple (pro iOS a macOS) pomocí OAuth. Vždy mají možnost pokračovat anonymně bez vytváření účtu.</p>
+
+  <h2>2. Jaká data shromažďujeme</h2>
+  <p>Shromažďujeme pouze minimální údaje potřebné k zajištění personalizovaného a funkčního zážitku:</p>
+  <ul>
+    <li>Od poskytovatelů OAuth (Google/Twitter/Azure): Jméno, Emailová adresa, Profilová fotografie</li>
+    <li>Z aplikace: Nastavení jazyka, země a tématu (nastavené uživatelem), Pokrok ve třídách a údaje o dokončených kvízech</li>
+  </ul>
+  <p>Neshromažďujeme ani neuchováváme citlivé osobní údaje, jako jsou hesla, historie polohy nebo identifikátory zařízení.</p>
+
+  <h2>3. Kde jsou data uložena</h2>
+  <p>Všechny uživatelské údaje jsou bezpečně uloženy pomocí Supabase, důvěryhodné platformy typu backend-as-a-service. Neprovozujeme vlastní servery.</p>
+
+  <h2>4. Jak používáme data</h2>
+  <p>Vaše údaje jsou používány pouze k:</p>
+  <ul>
+    <li>Personalizaci zážitku v aplikaci (jazyk, téma atd.)</li>
+    <li>Sledování pokroku ve třídách a výsledků kvízů</li>
+    <li>Identifikaci vašeho účtu při přihlášení přes Google nebo Facebook</li>
+  </ul>
+  <p>Vaše údaje nepoužíváme pro reklamu ani analytiku a nesdílíme je s žádnými třetími stranami.</p>
+
+  <h2>5. Kdo má přístup k datům</h2>
+  <p>Přístup k uživatelským datům uloženým v databázi má pouze vlastník aplikace. Nikdo jiný, včetně partnerů nebo poskytovatelů služeb, nemá přístup k vašim osobním či uživatelským informacím.</p>
+
+  <h2>6. Mazání dat</h2>
+  <p>Pokud si přejete, aby byla vaše data smazána, pošlete žádost na:</p>
+  <p><a href="mailto:fluentechtr@gmail.com">fluentechtr@gmail.com</a></p>
+  <p>Vaše data budou trvale smazána do 14 dnů.</p>
+
+  <h2>7. Kontaktujte nás</h2>
+  <p>Pokud máte jakékoli dotazy nebo obavy týkající se vašeho soukromí, neváhejte nás kontaktovat na:</p>
+  <p><a href="mailto:fluentechtr@gmail.com">fluentechtr@gmail.com</a></p>
+</body>
+</html>
