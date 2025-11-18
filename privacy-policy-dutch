@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacybeleid</title>
+</head>
+<body>
+  <h1>Privacybeleid</h1>
+  <p><strong>Laatste update:</strong> 25.08.2025</p>
+  <p><strong>Naam ontwikkelaar:</strong> Ömer Coşkun | FluenTech</p>
+  <p>Uw privacy is belangrijk voor ons. Dit Privacybeleid legt uit hoe wij uw gegevens verzamelen, gebruiken en beschermen wanneer u onze app gebruikt.</p>
+
+  <h2>1. Hoe gebruikers inloggen</h2>
+  <p>Gebruikers kunnen toegang krijgen tot de app op een van de volgende manieren: door in te loggen met Google, Twitter (X), Azure (Microsoft) of Apple (voor iOS en macOS) via OAuth. Ze hebben altijd de mogelijkheid om anoniem verder te gaan zonder een account aan te maken.</p>
+
+  <h2>2. Welke gegevens we verzamelen</h2>
+  <p>We verzamelen alleen de minimale gegevens die nodig zijn om een gepersonaliseerde en functionele ervaring te bieden:</p>
+  <ul>
+    <li>Van OAuth-providers (Google/Twitter/Azure): Naam, E-mailadres, Profielfoto</li>
+    <li>Van binnen de app: Taal, land en thema-instellingen (door de gebruiker ingesteld), Voortgang van de lessen en gegevens over voltooide quizzes</li>
+  </ul>
+  <p>We verzamelen of bewaren geen gevoelige persoonlijke gegevens zoals wachtwoorden, locatiegeschiedenis of apparaatherkenningsgegevens.</p>
+
+  <h2>3. Waar gegevens worden opgeslagen</h2>
+  <p>Alle gebruikersgegevens worden veilig opgeslagen via Supabase, een betrouwbare backend-as-a-service platform. Wij beheren geen eigen servers.</p>
+
+  <h2>4. Hoe we de gegevens gebruiken</h2>
+  <p>Uw gegevens worden alleen gebruikt om:</p>
+  <ul>
+    <li>Uw app-ervaring te personaliseren (taal, thema, enz.)</li>
+    <li>Uw voortgang in de lessen en quizresultaten bij te houden</li>
+    <li>Uw account te identificeren bij inloggen via Google of Facebook</li>
+  </ul>
+  <p>We gebruiken uw gegevens niet voor advertenties of analyses, en we delen ze niet met derden.</p>
+
+  <h2>5. Wie toegang heeft tot de gegevens</h2>
+  <p>Alleen de eigenaar van de app heeft toegang tot de gebruikersgegevens die in de database zijn opgeslagen. Niemand anders, inclusief partners of serviceproviders, heeft toegang tot uw persoonlijke of gebruiksinformatie.</p>
+
+  <h2>6. Verwijdering van gegevens</h2>
+  <p>Als u wilt dat uw gegevens worden verwijderd, stuur dan een verzoek naar:</p>
+  <p><a href="mailto:fluentechtr@gmail.com">fluentechtr@gmail.com</a></p>
+  <p>Uw gegevens worden permanent verwijderd binnen 14 dagen.</p>
+
+  <h2>7. Contact</h2>
+  <p>Als u vragen of opmerkingen heeft over uw privacy, kunt u contact met ons opnemen via:</p>
+  <p><a href="mailto:fluentechtr@gmail.com">fluentechtr@gmail.com</a></p>
+</body>
+</html>
