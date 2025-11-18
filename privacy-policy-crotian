@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8">
+  <title>Politika Privatnosti</title>
+</head>
+<body>
+  <h1>Politika Privatnosti</h1>
+  <p><strong>Posljednje ažuriranje:</strong> 25.08.2025</p>
+  <p><strong>Ime programera:</strong> Ömer Coşkun | FluenTech</p>
+  <p>Vaša privatnost nam je važna. Ova Politika privatnosti objašnjava kako prikupljamo, koristimo i štitimo vaše informacije kada koristite našu aplikaciju.</p>
+
+  <h2>1. Kako se korisnici prijavljuju</h2>
+  <p>Korisnici mogu pristupiti aplikaciji na jedan od sljedećih načina: prijavom putem Google, Twitter (X), Azure (Microsoft) ili Apple (za iOS i macOS) koristeći OAuth. Uvijek imaju opciju nastaviti anonimno bez kreiranja računa.</p>
+
+  <h2>2. Koje podatke prikupljamo</h2>
+  <p>Prikupljamo samo minimalne podatke potrebne za pružanje personaliziranog i funkcionalnog iskustva:</p>
+  <ul>
+    <li>Od OAuth pružatelja usluga (Google/Twitter/Azure): Ime, Email adresa, Profilna fotografija</li>
+    <li>Unutar aplikacije: Jezik, zemlja i postavke teme (koje korisnik postavlja), Napredak u tečajevima i podaci o završenim kvizovima</li>
+  </ul>
+  <p>Ne prikupljamo niti pohranjujemo osjetljive osobne podatke poput lozinki, povijesti lokacija ili identifikatora uređaja.</p>
+
+  <h2>3. Gdje se podaci pohranjuju</h2>
+  <p>Svi korisnički podaci pohranjuju se sigurno koristeći Supabase, pouzdanu platformu backend-as-a-service. Ne upravljamo vlastitim serverima.</p>
+
+  <h2>4. Kako koristimo podatke</h2>
+  <p>Vaši podaci koriste se isključivo za:</p>
+  <ul>
+    <li>Personalizaciju vašeg iskustva u aplikaciji (jezik, tema itd.)</li>
+    <li>Praćenje vašeg napretka u tečajevima i rezultata kvizova</li>
+    <li>Identifikaciju vašeg računa prilikom prijave putem Google ili Facebook</li>
+  </ul>
+  <p>Ne koristimo vaše podatke za oglašavanje niti analitiku, i ne dijelimo ih s trećim stranama.</p>
+
+  <h2>5. Tko može pristupiti podacima</h2>
+  <p>Samo vlasnik aplikacije ima pristup korisničkim podacima pohranjenim u bazi podataka. Nitko drugi, uključujući partnere ili pružatelje usluga, nema pristup vašim osobnim ili informacijama o korištenju.</p>
+
+  <h2>6. Brisanje podataka</h2>
+  <p>Ako želite da vaši podaci budu izbrisani, pošaljite zahtjev na:</p>
+  <p><a href="mailto:fluentechtr@gmail.com">fluentechtr@gmail.com</a></p>
+  <p>Vaši podaci bit će trajno izbrisani u roku od 14 dana.</p>
+
+  <h2>7. Kontaktirajte nas</h2>
+  <p>Ako imate pitanja ili nedoumice u vezi vaše privatnosti, slobodno nas kontaktirajte na:</p>
+  <p><a href="mailto:fluentechtr@gmail.com">fluentechtr@gmail.com</a></p>
+</body>
+</html>
